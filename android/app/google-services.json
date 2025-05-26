@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608082226703",
+    "project_id": "drhouse-a8e6b",
+    "storage_bucket": "drhouse-a8e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608082226703:android:62bb13e4f1d6e21080bd7a",
+        "android_client_info": {
+          "package_name": "com.drhouse.drhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUD8eGbZK_7sNVMy3JmnMWwfDAB4XhE6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608082226703:android:627e511457be21c980bd7a",
+        "android_client_info": {
+          "package_name": "com.example.drhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUD8eGbZK_7sNVMy3JmnMWwfDAB4XhE6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
